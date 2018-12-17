@@ -1,4 +1,5 @@
 # Morning-Offering-Email-Redesign
+(Update: 12/17/18 - in testing out for production in coming weeks)
 
 * Client: Catholic Company (https://www.catholiccompany.com/)
 
